@@ -22,4 +22,6 @@
 */*/*.njsproj
 */*/*.sln
 */*/*.sw?
+*/*/.git
+*/*/.gitignore
 
